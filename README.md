@@ -33,9 +33,9 @@ npm install -g cordova
 
 ### 1. Clone this repository
 ```bash
-git clone 
+git clone https://github.com/akashshuklacs/pollution-ionic
 # in the cloned directory goto land_bank directory i.e.
-cd 
+cd pollution-ionic
 ```
 
 ### 2. Install Packages
